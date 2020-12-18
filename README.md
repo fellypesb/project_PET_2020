@@ -5,7 +5,8 @@ Este repositório contém todos os materiais resultantes durante o desenvolvimen
 
 ## Resultados:
 
-![results_table](https://user-images.githubusercontent.com/52214785/102642024-cf327b00-413b-11eb-89a3-aa4fb041fa71.png "Tabela de resultados")
-
 ![grafico_predicoes](https://user-images.githubusercontent.com/52214785/102640547-65b16d00-4139-11eb-88c3-0c6231a23f0c.png "Curva de predições dos melhores modelos obtidos.")
+
+![results_table](https://user-images.githubusercontent.com/52214785/102642477-80d1ac00-413c-11eb-9fbd-0d12adeaf78c.png "Tabelas de resultados.")
+
 
