@@ -10,4 +10,6 @@ Demonstra a capacidade das redes neurais artificiais (RNAs) em realizar previsõ
 
 ![results_table](https://user-images.githubusercontent.com/52214785/102642477-80d1ac00-413c-11eb-9fbd-0d12adeaf78c.png "Tabelas de resultados.")
 
+## Sobre
+[PET](https://www.sbc.org.br/educacao/grupos-pet)
 
